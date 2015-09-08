@@ -1,6 +1,6 @@
 class TwitterAuth:
-	consumer_key="hzdf3Kt5TguJFVLLbA1ZxcBUu"
-	consumer_secret="6b3ods1DJ90I8kLz1gFka5fGDcr4YRgPAcJrNEICdRY2GsIhw0"
+	consumer_key="****"
+	consumer_secret="****"
 
-	access_token="3585902655-OYTiQTRPeldoYWn9KBrlk5yi99wlB9ibCKRJhwr"
-	access_token_secret="AihV16Kv0bIcP9EjCaRJq3xNq0FaL0qiRvWkWNzwJYjJl"
+	access_token="****"
+	access_token_secret="****"
